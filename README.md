@@ -11,7 +11,7 @@ In this project I have wrote the code that simulates the motion of the UR5 for a
 
 ## Requirements
 
-Since the simulated robot has no friction and zero motor torques, no energy is added or subtracted during the simulated motion. Therefore, the total energy of the robot (kinetic plus potential) must remain constant during the simulation. 
+Since the simulated robot has no friction and zero motor torques, no energy is added or subtracted during the simulated motion. Therefore, the total energy of the robot (kinetic plus potential) must remain constant during the simulation. The result can be drawn from the curve of the kinetic energy of the robot in [this notebook](https://github.com/RuoyuLi92/Robot_Dynamic_Project/blob/master/code/RobotDynamic.ipynb) 
 
 ## Result
 
